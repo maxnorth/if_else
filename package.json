@@ -1,0 +1,11 @@
+{
+  "name": "if_else",
+  "version": "0.0.0",
+  "description": "",
+  "main": "if_else.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maxnorth",
+  "license": "ISC"
+}
