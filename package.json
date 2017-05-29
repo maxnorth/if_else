@@ -1,7 +1,13 @@
 {
   "name": "if_else",
   "version": "1.0.0",
-  "description": "",
+  "description": "Provides conditional expressions using if/switch flow control expressed as functions. Designed with React in mind.",
   "main": "if_else.js",
-  "author": "maxnorth"
+  "author": "maxnorth",
+  "url": "https://github.com/maxnorth/if_else/issues",
+  "email": "maxwelldnorth@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxnorth/if_else.git"
+  }
 }
